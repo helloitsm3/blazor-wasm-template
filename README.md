@@ -39,7 +39,7 @@
 
 <img src="./assets/3.png" alt="Logo" width="600" height="300">
 
-This template aims at helping developers to understand and containerise their Blazor WASM app using Docker.
+This template aims at helping developers to understand and containerise their Blazor WASM app using Docker. Based on the article [here](https://dev.to/helloitsm3/how-to-setup-blazor-app-with-nginx-and-docker-11le)
 
 ### Built With
 
