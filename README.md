@@ -50,7 +50,7 @@ This section contains all the resources that was used.
 </a>
 
 <a href="https://visualstudio.microsoft.com/vs/" target="_blank">
-    <img alt="Visual Studio 2019" src="https://img.shields.io/badge/-Visual Studio 2019-8e44ad?style=flat-square&logo=visual studio&logoColor=white" />
+    <img alt="Visual Studio 2019" src="https://img.shields.io/badge/-Visual Studio 2019-8e44ad?style=flat-square&logo=visualstudio&logoColor=white" />
 </a>
 
 <a href="https://www.docker.com/" target="_blank">
